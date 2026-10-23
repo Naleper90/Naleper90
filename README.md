@@ -3,9 +3,9 @@
 # ¡Hola, soy Natalia Alejo! 👋
 ### Desarrolladora Web Full Stack & Frontend UI
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar_Web-black?style=for-the-badge&logo=vercel&logoColor=white)](https://nataliadevportfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-alejo-dev)
-[![Curriculum](https://img.shields.io/badge/Curriculum-Descargar_PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nataliadevportfolio.vercel.app/CV_1_Desarrollo_Web.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://nataliadevportfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-alejo-dev)
+[![Curriculum](https://img.shields.io/badge/Curriculum-E65100?style=for-the-badge&logo=files&logoColor=white)](https://nataliadevportfolio.vercel.app/CV_1_Desarrollo_Web.pdf)
 
 <p align="center">
   Graduada en <b>Desarrollo de Aplicaciones Web (DAW)</b>, con primer año cursado en <b>DAM</b> y formación previa en <b>Estudios Superiores de Imagen y Audiovisual</b>.
